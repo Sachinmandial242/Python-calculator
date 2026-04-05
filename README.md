@@ -16,3 +16,5 @@ It can perform different arithmetic operations based on user input.
 1. Make sure Python is installed
 2. Download or clone this repository
 3. Run the file:
+## Output Screenshot
+![Calculator](Screenshot.png)
